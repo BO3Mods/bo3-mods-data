@@ -2,7 +2,7 @@
   "login": "Debinno",
   "id": 89275284,
   "node_id": "MDQ6VXNlcjg5Mjc1Mjg0",
-  "avatar_url": "blob:http://127.0.0.1:5500/b4e762b1-9635-4a44-9735-be6e6cc6bcc0",
+  "avatar_url": "https://avatars.githubusercontent.com/u/89275284?v=4",
   "gravatar_id": "",
   "url": "https://api.github.com/users/Debinno",
   "html_url": "https://github.com/Debinno",
@@ -23,7 +23,7 @@
   "location": null,
   "email": null,
   "hireable": null,
-  "bio": "Im the owner lol",
+  "bio": "Web developer, gamer man, ur moms bf, and part-time pussy slayer.\r\nJust doin shit to do shit at this point",
   "twitter_username": "Debino_",
   "notification_email": null,
   "public_repos": 12,
@@ -43,6 +43,5 @@
     "space": 976562499,
     "collaborators": 0,
     "private_repos": 10000
-  },
-  "banner": "blob:http://127.0.0.1:5500/66bc2ec1-d262-4652-8dc8-a5106ba28288"
+  }
 }
