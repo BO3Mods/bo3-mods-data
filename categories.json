@@ -1,0 +1,37 @@
+[
+  {
+    "id": "general",
+    "name": "General Discussion",
+    "description": "General topics related to BO3 mods and the community"
+  },
+  {
+    "id": "mod-releases",
+    "name": "Mod Releases",
+    "description": "Share and discuss new BO3 mod releases"
+  },
+  {
+    "id": "modding-help",
+    "name": "Modding Help",
+    "description": "Ask for help or share knowledge about BO3 modding"
+  },
+  {
+    "id": "bug-reports",
+    "name": "Bug Reports",
+    "description": "Report and discuss bugs in BO3 mods"
+  },
+  {
+    "id": "mod-requests",
+    "name": "Mod Requests",
+    "description": "Request new mods or features for existing mods"
+  },
+  {
+    "id": "tutorials",
+    "name": "Tutorials",
+    "description": "Share or find tutorials related to BO3 modding"
+  },
+  {
+    "id": "resources",
+    "name": "Resources",
+    "description": "Share useful resources for BO3 modding"
+  }
+]
