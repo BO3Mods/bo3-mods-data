@@ -21,6 +21,12 @@
     "icon": "🎖️"
   },
   {
+    "id": "mod_creator",
+    "name": "Mod Creator",
+    "description": "Created your first mod",
+    "icon": "🛠️"
+  },
+  {
     "id": "forum_contributor",
     "name": "Forum Enthusiast",
     "description": "Made 100 forum posts",
