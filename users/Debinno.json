@@ -44,4 +44,10 @@
     "collaborators": 0,
     "private_repos": 10000
   }
+    "badges": [
+    {
+      "name": "Owner",
+      "description": "Owner of Bo3Mods.com",
+      "icon": "👑"
+    }
 }
