@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Mod Master",
+    "description": "Created 10 mods",
+    "icon": "🏆"
+  },
+  {
+    "name": "Forum Enthusiast",
+    "description": "Made 100 forum posts",
+    "icon": "💬"
+  },
+  {
+    "name": "Bug Hunter",
+    "description": "Reported 5 bugs",
+    "icon": "🐛"
+  },
+  {
+    "id": "member_1_year",
+    "name": "Veteran",
+    "description": "Been a member for 1 year",
+    "icon": "🎖️"
+  },
+  {
+    "id": "mod_creator",
+    "name": "Mod Creator",
+    "description": "Created your first mod",
+    "icon": "🛠️"
+  },
+  {
+    "id": "forum_contributor",
+    "name": "Forum Enthusiast",
+    "description": "Made 100 forum posts",
+    "icon": "💬"
+  },
+  {
+    "id": "bug_hunter",
+    "name": "Bug Hunter",
+    "description": "Reported 5 bugs",
+    "icon": "🐛"
+  }
+]
