@@ -1,26 +1,8 @@
 [
   {
-    "id": "member_1_year",
-    "name": "Veteran",
-    "description": "Been a member for 1 year",
-    "icon": "🎖️"
-  },
-  {
-    "id": "mod_creator",
-    "name": "Mod Creator",
-    "description": "Created your first mod",
-    "icon": "🛠️"
-  },
-  {
-    "id": "popular_mod",
-    "name": "Mod Star",
-    "description": "Created a mod with 1000+ downloads",
-    "icon": "⭐"
-  },
-  {
-    "id": "forum_contributor",
-    "name": "Forum Enthusiast",
-    "description": "Made 100 forum posts",
-    "icon": "💬"
+    "id": "owner",
+    "name": "Owner",
+    "description": "Owner of Bo3Mods.com",
+    "icon": "👑"
   }
 ]
