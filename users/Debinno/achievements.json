@@ -1,5 +1,10 @@
 [
   {
+    "name": "Owner",
+    "description": "Owner of Bo3Mods.com",
+    "icon": "👑"
+  }
+  {
     "name": "Mod Master",
     "description": "Created 10 mods",
     "icon": "🏆"
