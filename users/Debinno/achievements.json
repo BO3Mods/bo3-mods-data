@@ -1,8 +1,14 @@
 [
   {
-    "id": "owner",
-    "name": "Owner",
-    "description": "Owner of Bo3Mods.com",
-    "icon": "👑"
+    "id": "member_1_year",
+    "name": "Veteran",
+    "description": "Been a member for 1 year",
+    "icon": "🎖️"
+  },
+  {
+    "id": "mod_creator",
+    "name": "Mod Creator",
+    "description": "Created your first mod",
+    "icon": "🛠️"
   }
 ]
