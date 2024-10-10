@@ -46,9 +46,9 @@
   }
   "badges": [
     {
-      "name": "Owner",
-      "description": "Owner of Bo3Mods.com",
-      "icon": "👑"
+      "name": "Early Adopter",
+      "description": "One of the first 100 users to join the site",
+      "icon": "🥇"
     }
   ]
 }
