@@ -10,5 +10,11 @@
     "name": "Mod Creator",
     "description": "Created your first mod",
     "icon": "🛠️"
+  },
+  {
+    "id": "popular_mod",
+    "name": "Mod Star",
+    "description": "Created a mod with 1000+ downloads",
+    "icon": "⭐"
   }
 ]
