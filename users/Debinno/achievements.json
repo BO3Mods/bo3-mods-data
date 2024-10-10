@@ -16,5 +16,11 @@
     "name": "Mod Star",
     "description": "Created a mod with 1000+ downloads",
     "icon": "⭐"
+  },
+  {
+    "id": "forum_contributor",
+    "name": "Forum Enthusiast",
+    "description": "Made 100 forum posts",
+    "icon": "💬"
   }
 ]
